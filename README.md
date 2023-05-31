@@ -1,7 +1,3 @@
-# Python-Chat-Room
-
-Sure, here is the updated README:
-
 ## Chat Room
 
 This is a simple chat room application that can be used by multiple users to communicate with each other. The application is written in Python and uses the `socket` module to create a TCP server. The server listens for connections from clients and then sends them a welcome message. Once a client is connected, they can type messages to other clients. The server then broadcasts the messages to all other connected clients.
